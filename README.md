@@ -379,7 +379,7 @@ The application has not been clinically validated and should not be used as a su
 
 ## 👨‍💻 Author
 
-**Lokesh**
+**Harshitha**
 
 B.Tech — Electronics and Communication Engineering
 
